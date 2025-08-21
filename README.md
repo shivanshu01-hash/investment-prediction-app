@@ -1,10 +1,10 @@
-# 💹 Investment Prediction App
+# Investment Prediction App
 
 This is a **Streamlit app** that demonstrates a Multiple Linear Regression (MLR) model for predicting investment outcomes.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install the dependencies:
    ```bash
@@ -18,7 +18,7 @@ This is a **Streamlit app** that demonstrates a Multiple Linear Regression (MLR)
 
 ---
 
-## 📊 Features
+## Features
 - Displays dataset preview
 - Splits data into training & testing sets
 - Trains a Multiple Linear Regression model
@@ -28,7 +28,7 @@ This is a **Streamlit app** that demonstrates a Multiple Linear Regression (MLR)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 investment_prediction_app/
 │── app.py
@@ -39,5 +39,5 @@ investment_prediction_app/
 
 ---
 
-## 📝 Note
+## Note
 A small **sample Investment.csv** is included so you can run instantly.
